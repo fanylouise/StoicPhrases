@@ -1,0 +1,14 @@
+{
+  "phrases":[
+    {"id":0, "author":"Sêneca", "phrase":"Comece imediatamente a viver e conte cada dia separado como uma vida separada."},
+    {"id":1, "author":"Seneca", "phrase":"Nada é mais honrado do que um coração agradecido."},
+    {"id":2, "author":"Seneca", "phrase":"O silêncio é uma lição aprendida com os muitos sofrimentos da vida."},
+    {"id":3, "author":"Seneca", "phrase":"Considere um amigo leal e você o tornará leal."},
+    {"id":5, "author":"Seneca", "phrase":"Desfrute dos prazeres presentes de forma a não prejudicar os futuros."},
+    {"id":6, "author":"Seneca", "phrase":"O que quer que possa acontecer a qualquer momento, pode acontecer hoje."},
+    {"id":7, "author":"Seneca", "phrase":"Associe-se a pessoas que possam melhorar você."},
+    {"id":8, "author":"Seneca", "phrase":"Não importa o que você carregue, mas como você carrega."},
+    {"id":9, "author":"Seneca", "phrase":"Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que as coisas são difíceis."},
+    {"id":10, "author":"Seneca", "phrase":"Lembre-se de que a dor tem essa qualidade excelente. Se prolongado, não pode ser grave e, se for grave, não pode ser prolongado."}
+  ]
+} 
